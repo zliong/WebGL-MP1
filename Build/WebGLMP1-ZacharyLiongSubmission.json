@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MPTest1",
+"productVersion": "0.1",
+"dataUrl": "WebGLMP1-ZacharyLiongSubmission.data.unityweb",
+"wasmCodeUrl": "WebGLMP1-ZacharyLiongSubmission.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGLMP1-ZacharyLiongSubmission.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
